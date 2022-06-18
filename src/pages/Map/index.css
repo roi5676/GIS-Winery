@@ -1,0 +1,14 @@
+.description-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.title {
+	font-size: 14px;
+	font-weight: 600;
+	text-decoration: underline;
+	margin-bottom: 0.5rem;
+	cursor: pointer;
+}

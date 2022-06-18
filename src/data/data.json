@@ -1,0 +1,1316 @@
+[
+    {
+		"id": 1,
+		"name": "יקב גלילאו   Galileo Winery",
+		"description": "יקב גלילאו   Galileo Winery",
+		"position": [33.240508, 35.656349],
+		"openingHours": "08:00 - 15:00",
+		"city": "דן",
+		"website": "  https://galileo-winery.co.il/"
+},
+{
+		"id": 2,
+		"name": "יקב הר אודם   Odem Mountain Winery",
+		"description": "יקב הר אודם   Odem Mountain Winery",
+		"position": [33.192947, 35.751144],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב אודם",
+		"website": " www.harodem.co.il"
+},
+{
+		"id": 3,
+		"name": "יקב רמות נפתלי   Ramot Naftaly Winery",
+		"description": "יקב רמות נפתלי   Ramot Naftaly Winery",
+		"position": [33.100456, 35.553829],
+		"openingHours": "08:00 - 16:00",
+		"city": "רמות נפתלי",
+		"website": "http://www.ramotnaftaly.com/"
+},
+{
+		"id": 4,
+		"name": "יקב נעמן   Na'aman Winery",
+		"description": "יקב נעמן   Na'aman Winery",
+		"position": [33.100395, 35.555504],
+		"openingHours": "10:00 - 18:00",
+		"city": "רמות נפתלי",
+		"website": "http://www.naamanwine.co.il/"
+},
+{
+		"id": 5,
+		"name": "יקב פלטר   Pelter Winery",
+		"description": "יקב פלטר   Pelter Winery",
+		"position": [33.096977, 35.799175],
+		"openingHours": "10:00 - 14:00",
+		"city": "עין זיוון",
+		"website": "pelter.co.il"
+},
+{
+		"id": 6,
+		"name": "יקב בהט   Bahat Winery",
+		"description": "יקב בהט   Bahat Winery",
+		"position": [33.096718, 35.798771],
+		"openingHours": "09:00 - 16:00",
+		"city": "עין זיוון",
+		"website": "http://www.bahatwinery.co.il/"
+},
+{
+		"id": 7,
+		"name": "יקב אורטל   Ortal Winery",
+		"description": "יקב אורטל   Ortal Winery",
+		"position": [33.086277, 35.758667],
+		"openingHours": "09:00 - 15:00",
+		"city": "קיבוץ אורטל",
+		"website": "http://www.facebook.com/ortalwines"
+},
+{
+		"id": 8,
+		"name": "יקב הרי גליל    Galil Mountain Winery",
+		"description": "יקב הרי גליל    Galil Mountain Winery",
+		"position": [33.078426, 35.448471],
+		"openingHours": "09:00 - 15:30",
+		"city": "קיבוץ יראון",
+		"website": "galilmountain.co.il"
+},
+{
+		"id": 9,
+		"name": "יקב לגזיאל   Lagziel Winery",
+		"description": "יקב לגזיאל   Lagziel Winery",
+		"position": [33.073627, 35.295555],
+		"openingHours": "08:30 - 14:30",
+		"city": "אבן מנחם",
+		"website": "galilmountain.co.il"
+},
+{
+		"id": 10,
+		"name": "יקב ברעם   Baram Winery",
+		"description": "יקב ברעם   Baram Winery",
+		"position": [33.059837, 35.432777],
+		"openingHours": "09:00 - 16:00",
+		"city": "קיבוץ ברעם",
+		"website": "http://www.baram-winery.com/"
+},
+{
+		"id": 11,
+		"name": "יקב סלוקייה   Salokiya Winery",
+		"description": "יקב סלוקייה   Salokiya Winery",
+		"position": [33.0327, 35.695698],
+		"openingHours": "09:00 - 16:00",
+		"city": "קדמת צבי",
+		"website": "http://www.salokiya.co.il/"
+},
+{
+		"id": 12,
+		"name": "יקב רם   Ram Winery",
+		"description": "יקב רם   Ram Winery",
+		"position": [33.028244, 35.699013],
+		"openingHours": "08:00 - 16:00",
+		"city": "קדמת צבי",
+		"website": "http://www.ramwinery.com/"
+},
+{
+		"id": 13,
+		"name": "יקב אסף   Assaf Winery",
+		"description": "יקב אסף   Assaf Winery",
+		"position": [33.028562, 35.686994],
+		"openingHours": "09:00 - 14:00",
+		"city": "קדמת צבי",
+		"website": "http://www.assafwinery.com/"
+},
+{
+		"id": 14,
+		"name": "יקב בזלת הגולן   Bazelet HaGolan Winery",
+		"description": "יקב בזלת הגולן   Bazelet HaGolan Winery",
+		"position": [33.026142, 35.698322],
+		"openingHours": "09:00 - 13:00",
+		"city": "קדמת צבי",
+		"website": "http://www.bazelet-hagolan.co.il/"
+},
+{
+		"id": 15,
+		"name": "יקב בן זמרה   Ben Zimra Winery",
+		"description": "יקב בן זמרה   Ben Zimra Winery",
+		"position": [33.038933, 35.473507],
+		"openingHours": "08:30 - 17:00",
+		"city": "מושב בן זימרה",
+		"website": "http://benzimrawinery.com/"
+},
+{
+		"id": 16,
+		"name": "יקב מילס   Miles Winery",
+		"description": "יקב מילס   Miles Winery",
+		"position": [33.039379, 35.471855],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב בן זימרה",
+		"website": "--"
+},
+{
+		"id": 17,
+		"name": "Abaya Winery   יקב עבייה",
+		"description": "Abaya Winery   יקב עבייה",
+		"position": [32.99486, 35.21967],
+		"openingHours": "09:00 - 16:00",
+		"city": "קיבוץ יחיעם",
+		"website": "http://www.abayawinery.com/"
+},
+{
+		"id": 18,
+		"name": "יקב כישור   Kishor Winery",
+		"description": "יקב כישור   Kishor Winery",
+		"position": [32.944275, 35.251732],
+		"openingHours": "10:00 - 17:00",
+		"city": "קיבוץ כישור",
+		"website": "http://www.kishor-winery.co.il/"
+},
+{
+		"id": 19,
+		"name": "יקב שאטו רמו   Château Remo Winery",
+		"description": "יקב שאטו רמו   Château Remo Winery",
+		"position": [32.997727, 35.298718],
+		"openingHours": "08:00 - 20:00",
+		"city": "מושב חוסן",
+		"website": "--"
+},
+{
+		"id": 20,
+		"name": "כרם שבו",
+		"description": "כרם שבו",
+		"position": [33.02202, 35.44912],
+		"openingHours": "10:00 - 16:00",
+		"city": "ג'יש",
+		"website": "shvo.co.il"
+},
+{
+		"id": 21,
+		"name": "יקב ג‘סקלה   Jascala Winery",
+		"description": "יקב ג‘סקלה   Jascala Winery",
+		"position": [33.021136, 35.446318],
+		"openingHours": "10:00 - 16:00",
+		"city": "ג'יש",
+		"website": "http://www.jascala.com/"
+},
+{
+		"id": 22,
+		"name": "יקב דלתון   Dalton Winery",
+		"description": "יקב דלתון   Dalton Winery",
+		"position": [33.029446, 35.476879],
+		"openingHours": "08:00 - 20:00",
+		"city": "פארק התעשייה דלתון",
+		"website": "http://www.daltonwinery.com/"
+},
+{
+		"id": 23,
+		"name": "יקב אדיר   Adir Winery",
+		"description": "יקב אדיר   Adir Winery",
+		"position": [33.0288, 35.47571],
+		"openingHours": "09:00 - 15:00",
+		"city": "פארק התעשייה דלתון",
+		"website": "http://www.adir-winery.co.il/"
+},
+{
+		"id": 24,
+		"name": "יקבי רמת הגולן   Golan Heights Winery",
+		"description": "יקבי רמת הגולן   Golan Heights Winery",
+		"position": [32.9921, 35.691536],
+		"openingHours": "09:00 - 16:00",
+		"city": "קצרין",
+		"website": "http://www.golanwines.co.il/"
+},
+{
+		"id": 25,
+		"name": "יקב טרה נובה   Terranova Winery",
+		"description": "יקב טרה נובה   Terranova Winery",
+		"position": [32.86774, 35.70335],
+		"openingHours": "08:00 - 17:00",
+		"city": "כנף",
+		"website": "terranova-winery.co.il"
+},
+{
+		"id": 26,
+		"name": "יקב סקוריה   Scoria Winery",
+		"description": "יקב סקוריה   Scoria Winery",
+		"position": [32.86897, 35.70127],
+		"openingHours": "08:00 - 17:00",
+		"city": "כנף",
+		"website": "http://www.scoria-winery.com/"
+},
+{
+		"id": 27,
+		"name": "יקב קנאטיר",
+		"description": "יקב קנאטיר",
+		"position": [32.83451, 35.75703],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב נטור",
+		"website": "http://www.kanatir.com/"
+},
+{
+		"id": 28,
+		"name": "דומיין סרור   Domaine Seror",
+		"description": "דומיין סרור   Domaine Seror",
+		"position": [32.824967, 35.767071],
+		"openingHours": "08:00 - 17:00",
+		"city": "מושב אבני איתן",
+		"website": "http://www.domaineseror.com/"
+},
+{
+		"id": 29,
+		"name": "יקב שאטו גולן   Château Golan Winery",
+		"description": "יקב שאטו גולן   Château Golan Winery",
+		"position": [32.807186, 35.740971],
+		"openingHours": "09:00 - 19:00",
+		"city": "מושב אליעד",
+		"website": "http://www.chateaugolan.com/"
+},
+{
+		"id": 30,
+		"name": "יקב עין תאנה   Ein Teina Winery",
+		"description": "יקב עין תאנה   Ein Teina Winery",
+		"position": [32.79979, 35.68185],
+		"openingHours": "10:00 - 20:00",
+		"city": "קיבוץ גבע",
+		"website": "--"
+},
+{
+		"id": 31,
+		"name": "יקב לוריא   Lueria Winery",
+		"description": "יקב לוריא   Lueria Winery",
+		"position": [33.015991, 35.443397],
+		"openingHours": "09:00 - 16:00",
+		"city": "ספסופה",
+		"website": "http://www.lueriawinery.com/"
+},
+{
+		"id": 32,
+		"name": "יקב אור הגנוז   Or Haganuz Winery",
+		"description": "יקב אור הגנוז   Or Haganuz Winery",
+		"position": [33.005138, 35.446701],
+		"openingHours": "10:00 - 19:00",
+		"city": "ישוב אור הגנוז",
+		"website": "http://www.orhaganuzwinery.com/"
+},
+{
+		"id": 33,
+		"name": "יקב דרור   Dror Winery",
+		"description": "יקב דרור   Dror Winery",
+		"position": [32.958714, 35.456621],
+		"openingHours": "10:00 - 17:00",
+		"city": "כפר שמאי",
+		"website": "--"
+},
+{
+		"id": 34,
+		"name": "יקב חרשים   Harashim Winery",
+		"description": "יקב חרשים   Harashim Winery",
+		"position": [32.954710, 35.329290],
+		"openingHours": "09:00 - 16:00",
+		"city": "מצפה חרשים",
+		"website": "http://www.hwinery.co.il/"
+},
+{
+		"id": 35,
+		"name": "יקב שאטו רמו   Château Remo Winery",
+		"description": "יקב שאטו רמו   Château Remo Winery",
+		"position": [32.997727, 35.298718],
+		"openingHours": "09:00 - 17:00",
+		"city": "מושב חוסן",
+		"website": "--"
+},
+{
+		"id": 36,
+		"name": "יקב כישור   Kishor Winery",
+		"description": "יקב כישור   Kishor Winery",
+		"position": [32.944275, 35.251732],
+		"openingHours": "09:00 - 16:00",
+		"city": "קיבוץ כישור",
+		"website": "http://www.kishor-winery.co.il/"
+},
+{
+		"id": 37,
+		"name": "יקב אשקר   Ashkar Winery",
+		"description": "יקב אשקר   Ashkar Winery",
+		"position": [32.951556, 35.158397],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר יאסיף",
+		"website": "http://www.ashkarwinery.com/"
+},
+{
+		"id": 38,
+		"name": "יקב שטרן   Stern Winery",
+		"description": "יקב שטרן   Stern Winery",
+		"position": [32.92976, 35.24713],
+		"openingHours": "09:00 - 18:00",
+		"city": "תובל",
+		"website": "http://www.stern-winery.co.il/"
+},
+{
+		"id": 39,
+		"name": "יקב לטם   Lotem Winery",
+		"description": "יקב לטם   Lotem Winery",
+		"position": [32.879388, 35.357457],
+		"openingHours": "09:00 - 18:00",
+		"city": "לוטם",
+		"website": "otemwinery.co.il"
+},
+{
+		"id": 40,
+		"name": "יקב נטופה   Netofa Winery",
+		"description": "יקב נטופה   Netofa Winery",
+		"position": [32.8035, 35.38335],
+		"openingHours": "09:00 - 16:00",
+		"city": "מצפה נטופה",
+		"website": "http://www.netofa.com/"
+},
+{
+		"id": 41,
+		"name": "יקב עמק יזרעאל   Jezreel Valley Winery",
+		"description": "יקב עמק יזרעאל   Jezreel Valley Winery",
+		"position": [32.78647, 35.24249],
+		"openingHours": "10:00 - 16:00",
+		"city": "עמק יזרעאל",
+		"website": "http://www.jezreelwinery.com/"
+},
+{
+		"id": 42,
+		"name": "יקב וורטמן   Vortman Winery",
+		"description": "יקב וורטמן   Vortman Winery",
+		"position": [32.79427, 34.982227],
+		"openingHours": "09:00 - 16:00",
+		"city": "חיפה",
+		"website": "http://www.vortmanwinery.com/"
+},
+{
+		"id": 43,
+		"name": "יקב יפתחאל   Yiftah'el Winery",
+		"description": "יקב יפתחאל   Yiftah'el Winery",
+		"position": [32.756875, 35.220296],
+		"openingHours": "10:00 - 16:00",
+		"city": "אלון הגליל",
+		"website": "http://www.yfw.co.il/"
+},
+{
+		"id": 44,
+		"name": "יקב יינות התבור   Hatavor Winery",
+		"description": "יקב יינות התבור   Hatavor Winery",
+		"position": [32.687801, 35.419292],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר תבור",
+		"website": "http://www.twc.co.il/"
+},
+{
+		"id": 45,
+		"name": "יקב כרם תשע   Kerem Tesha Winery",
+		"description": "יקב כרם תשע   Kerem Tesha Winery",
+		"position": [32.66339, 35.44604],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר קיש",
+		"website": "--"
+},
+{
+		"id": 46,
+		"name": "יקב שדות   Sadot Winery",
+		"description": "יקב שדות   Sadot Winery",
+		"position": [32.694039, 35.140109],
+		"openingHours": "10:00 - 18:00",
+		"city": "שדה יעקב",
+		"website": "http://www.sadot-winery.com/"
+},
+{
+		"id": 47,
+		"name": "יקב טוליפ   Tulip Winery",
+		"description": "יקב טוליפ   Tulip Winery",
+		"position": [32.701463, 35.116531],
+		"openingHours": "10:00 - 19:00",
+		"city": "קרית טבעון",
+		"website": "http://www.tulip-winery.co.il/"
+},
+{
+		"id": 48,
+		"name": "יקב סימון   Simon Winery",
+		"description": "יקב סימון   Simon Winery",
+		"position": [32.71328,35.13041],
+		"openingHours": "09:00 - 16:00",
+		"city": "קרית טבעון",
+		"website": "http://www.simonwinery.com/"
+},
+{
+		"id": 49,
+		"name": "יקב שושנה   Shoshana Winery",
+		"description": "יקב שושנה   Shoshana Winery",
+		"position": [32.690609, 34.936294],
+		"openingHours": "09:00 - 17:00",
+		"city": "עתלית",
+		"website": "--"
+},
+{
+		"id": 50,
+		"name": "יקב סריג   Sarig Winery",
+		"description": "יקב סריג   Sarig Winery",
+		"position": [32.599037, 35.314891],
+		"openingHours": "09:00 - 17:00",
+		"city": "מושב מרחביה",
+		"website": "http://www.sarig33.com/"
+},
+{
+		"id": 51,
+		"name": "יינות נחמני   Nachmani Wines",
+		"description": "יינות נחמני   Nachmani Wines",
+		"position": [32.529064, 35.335743],
+		"openingHours": "09:00 - 16:00",
+		"city": "גן נר",
+		"website": "--"
+},
+{
+		"id": 52,
+		"name": "יקב דדה   Dadah Winery",
+		"description": "יקב דדה   Dadah Winery",
+		"position": [32.636247, 35.006556],
+		"openingHours": "09:00 - 18:00",
+		"city": "כרם מהרל",
+		"website": ""
+},
+{
+		"id": 53,
+		"name": "יקב אמפורה   Amphorae Winery",
+		"description": "יקב אמפורה   Amphorae Winery",
+		"position": [32.639236, 34.993603],
+		"openingHours": "09:00 - 17:00",
+		"city": "כרם מהרל",
+		"website": "amphoraewines.com/contact-us"
+},
+{
+		"id": 54,
+		"name": "יקב כרמל - זכרון יעקב   Carmel Winery",
+		"description": "יקב כרמל - זכרון יעקב   Carmel Winery",
+		"position": [32.574375, 34.958366],
+		"openingHours": "10:00 - 19:00",
+		"city": "זכרון יעקב",
+		"website": "carmelwines.co.il"
+},
+{
+		"id": 55,
+		"name": "יקב סומק   Somek Winery",
+		"description": "יקב סומק   Somek Winery",
+		"position": [32.571407, 34.952248],
+		"openingHours": "09:00 - 16:00",
+		"city": "זכרון יעקב",
+		"website": "somek-winery.co.il"
+},
+{
+		"id": 56,
+		"name": "יקב תשבי   Tishbi Winery",
+		"description": "יקב תשבי   Tishbi Winery",
+		"position": [32.54887, 34.957596],
+		"openingHours": "10:30 - 18:30",
+		"city": "זכרון יעקב",
+		"website": "http://www.tishbi.com/"
+},
+{
+		"id": 57,
+		"name": "יקב סלומון   Salomon Winery",
+		"description": "יקב סלומון   Salomon Winery",
+		"position": [32.5606, 35.01953],
+		"openingHours": "10:00 - 18:00",
+		"city": "מושב עמיקם",
+		"website": "http://www.salomon-winery.com/"
+},
+{
+		"id": 58,
+		"name": "יקב אלונה   Alona Winery",
+		"description": "יקב אלונה   Alona Winery",
+		"position": [32.548347, 35.043133],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב נילי",
+		"website": "https://www.alonawinery.com/"
+},
+{
+		"id": 59,
+		"name": "יקב ארגוב   Argov Winery",
+		"description": "יקב ארגוב   Argov Winery",
+		"position": [32.534301, 34.993661],
+		"openingHours": "10:00 - 18:00",
+		"city": "מושב אביאל",
+		"website": "--"
+},
+{
+		"id": 60,
+		"name": "יקב בנימינה   Binyamina Winery",
+		"description": "יקב בנימינה   Binyamina Winery",
+		"position": [32.521622, 34.945782],
+		"openingHours": "09:00 - 16:00",
+		"city": "בנימינה",
+		"website": "http://www.binyaminawines.co.il/"
+},
+{
+		"id": 61,
+		"name": "יקב מרגלית   Margalit Winery",
+		"description": "יקב מרגלית   Margalit Winery",
+		"position": [32.512413, 34.949417],
+		"openingHours": "09:00 - 16:00",
+		"city": "בנימינה",
+		"website": "http://www.margalit-winery.com/"
+},
+{
+		"id": 62,
+		"name": "יקב בר-מאור   Bar-Maor Winery",
+		"description": "יקב בר-מאור   Bar-Maor Winery",
+		"position": [32.51231, 34.948582],
+		"openingHours": "10:00 - 18:00",
+		"city": "בנימינה",
+		"website": "http://www.barmaor.com/"
+},
+{
+		"id": 63,
+		"name": "יקב רקנאטי   Recanati Winery",
+		"description": "יקב רקנאטי   Recanati Winery",
+		"position": [32.405251, 34.8974],
+		"openingHours": "09:00 - 16:00",
+		"city": "עמק חפר",
+		"website": "http://www.recanati-winery.com/"
+},
+{
+		"id": 64,
+		"name": "יקב הראה   Haroe Winery",
+		"description": "יקב הראה   Haroe Winery",
+		"position": [32.39856, 34.91496],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר הראה",
+		"website": "--"
+},
+{
+		"id": 65,
+		"name": "יקב ויתקין   Vitkin Winery",
+		"description": "יקב ויתקין   Vitkin Winery",
+		"position": [32.38446, 34.89127],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר ויתקין",
+		"website": "http://www.vitin-winery.co.il/"
+},
+{
+		"id": 66,
+		"name": "יקב אליגוטה   Aligote Winery",
+		"description": "יקב אליגוטה   Aligote Winery",
+		"position": [32.352152, 34.995897],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב גן יאשיה",
+		"website": "--"
+},
+{
+		"id": 67,
+		"name": "יקב אלכסנדר   Alexander Winery",
+		"description": "יקב אלכסנדר   Alexander Winery",
+		"position": [32.341892, 34.897026],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר ידידיה",
+		"website": "http://www.alexander-winery.com/"
+},
+{
+		"id": 68,
+		"name": "יקב אבידן   Avidan Winery",
+		"description": "יקב אבידן   Avidan Winery",
+		"position": [32.209869, 34.980057],
+		"openingHours": "10:00 - 18:00",
+		"city": "מושב אייל",
+		"website": "http://www.avidanwinery.com/"
+},
+{
+		"id": 69,
+		"name": "יקב לוינסון   Lewinsohn Winery",
+		"description": "יקב לוינסון   Lewinsohn Winery",
+		"position": [32.160355, 34.894123],
+		"openingHours": "10:00 - 18:00",
+		"city": "הוד השרון",
+		"website": "Lewinsohnwinery.com"
+},
+{
+		"id": 70,
+		"name": "יקב גיתו",
+		"description": "יקב גיתו",
+		"position": [32.15572, 34.91473],
+		"openingHours": "09:00 - 16:00",
+		"city": "הוד השרון",
+		"website": "--"
+},
+{
+		"id": 71,
+		"name": "יקב נווה ירק   Neve Yarak",
+		"description": "יקב נווה ירק   Neve Yarak",
+		"position": [32.13246, 34.92263],
+		"openingHours": "09:00 - 16:00",
+		"city": "נווה ירק",
+		"website": "http://www.neveyarakwinery.com/"
+},
+{
+		"id": 72,
+		"name": "יקב בן חיים   Benhaim Winery",
+		"description": "יקב בן חיים   Benhaim Winery",
+		"position": [32.13851, 34.83055],
+		"openingHours": "09:00 - 16:00",
+		"city": "רמת השרון",
+		"website": "benhaim.co.il"
+},
+{
+		"id": 73,
+		"name": "יקב קנתרוס   Kantharos Winery",
+		"description": "יקב קנתרוס   Kantharos Winery",
+		"position": [32.09882, 34.964764],
+		"openingHours": "10:00 - 18:00",
+		"city": "ראש העין",
+		"website": "http://www.kantharos.co.il/"
+},
+{
+		"id": 74,
+		"name": "יקב אפק   Afek Winery",
+		"description": "יקב אפק   Afek Winery",
+		"position": [32.094387, 34.951008],
+		"openingHours": "08:00 - 18:00",
+		"city": "ראש העין",
+		"website": "afekwinery.co.il"
+},
+{
+		"id": 75,
+		"name": "יקב גרוס   Gros Winery",
+		"description": "יקב גרוס   Gros Winery",
+		"position": [32.063993, 34.905062],
+		"openingHours": "09:00 - 16:00",
+		"city": "נחלים",
+		"website": "--"
+},
+{
+		"id": 76,
+		"name": "יקב טריו   Trio Winery",
+		"description": "יקב טריו   Trio Winery",
+		"position": [32.055855, 34.820942],
+		"openingHours": "10:00 - 18:00",
+		"city": "רמת גן",
+		"website": "--"
+},
+{
+		"id": 77,
+		"name": "יקב וילה וילהלמה   Villa Wilhelma Winery",
+		"description": "יקב וילה וילהלמה   Villa Wilhelma Winery",
+		"position": [32.026602, 34.915587],
+		"openingHours": "09:00 - 19:00",
+		"city": "בני עטרות",
+		"website": "http://www.villawilhelma.co.il/"
+},
+{
+		"id": 78,
+		"name": "יקב גת שומרון   Gat Shomron Winery",
+		"description": "יקב גת שומרון   Gat Shomron Winery",
+		"position": [32.168929, 35.098823],
+		"openingHours": "09:00 - 16:00",
+		"city": "קרני שומרון",
+		"website": "http://www.gatshomron.com/"
+},
+{
+		"id": 79,
+		"name": "יקב הר ברכה   Har Bracha Winery",
+		"description": "יקב הר ברכה   Har Bracha Winery",
+		"position": [32.196533, 35.26519],
+		"openingHours": "07:00 - 15:30",
+		"city": "מושב ברכה",
+		"website": "brachawineries.com"
+},
+{
+		"id": 80,
+		"name": "יקב כביר",
+		"description": "יקב כביר",
+		"position": [32.2345, 35.32969],
+		"openingHours": "10:00 - 18:00",
+		"city": "אלון מורה",
+		"website": "kabirwinery.co.il"
+},
+{
+		"id": 81,
+		"name": "יקב טורא   Tura Winery",
+		"description": "יקב טורא   Tura Winery",
+		"position": [32.104195, 35.258194],
+		"openingHours": "09:00 - 16:00",
+		"city": "רחלים",
+		"website": "turawinery.com"
+},
+{
+		"id": 82,
+		"name": "יקב גבעות   Gvaot Winery",
+		"description": "יקב גבעות   Gvaot Winery",
+		"position": [32.059573, 35.274696],
+		"openingHours": "09:00 - 16:00",
+		"city": "גבעת הראל",
+		"website": "http://www.gvaot-winery.com/"
+},
+{
+		"id": 83,
+		"name": "יקב שילה   Shiloh Winery",
+		"description": "יקב שילה   Shiloh Winery",
+		"position": [32.052255, 35.290924],
+		"openingHours": "09:00 - 16:00",
+		"city": "שילה",
+		"website": "http://www.shilohwinery.com/"
+},
+{
+		"id": 84,
+		"name": "יקב תניא   Tanya Winery",
+		"description": "יקב תניא   Tanya Winery",
+		"position": [31.955101, 35.260324],
+		"openingHours": "09:00 - 19:00",
+		"city": "עופרה",
+		"website": "http://www.tanyawinery.co.il/"
+},
+{
+		"id": 85,
+		"name": "יקב בית אל   Beit El Winery",
+		"description": "יקב בית אל   Beit El Winery",
+		"position": [31.94397, 35.228706],
+		"openingHours": "09:00 - 16:00",
+		"city": "בית אל",
+		"website": "http://www.beitelwinery.com/"
+},
+{
+		"id": 86,
+		"name": "יקב פסגות   Psagot Winery",
+		"description": "יקב פסגות   Psagot Winery",
+		"position": [31.875809, 35.259502],
+		"openingHours": "10:00 - 18:00",
+		"city": "פסגות",
+		"website": "psagotwines.com"
+},
+{
+		"id": 87,
+		"name": "יקב ירושלים   Jerusalem Winery",
+		"description": "יקב ירושלים   Jerusalem Winery",
+		"position": [31.768429, 35.213694],
+		"openingHours": "08:30 - 16:00",
+		"city": "ירושלים",
+		"website": "jerusalemwineries.co.il"
+},
+{
+		"id": 88,
+		"name": "יקב אבנר   Avner Winery",
+		"description": "יקב אבנר   Avner Winery",
+		"position": [31.8561734, 35.1713580],
+		"openingHours": "07:00 - 15:30",
+		"city": "גבעת זאב",
+		"website": "--"
+},
+{
+		"id": 89,
+		"name": "יקב הר אדר   Har Adar Winery",
+		"description": "יקב הר אדר   Har Adar Winery",
+		"position": [31.826542, 35.125031],
+		"openingHours": "09:00 - 19:00",
+		"city": "הר אדר",
+		"website": "http://har-adar-winery.co.il/"
+},
+{
+		"id": 90,
+		"name": "יקב ציון   Zion Winery",
+		"description": "יקב ציון   Zion Winery",
+		"position": [31.788485, 35.339691],
+		"openingHours": "09:00 - 16:00",
+		"city": "מישור אדומים",
+		"website": "http://www.zion-winery.com/"
+},
+{
+		"id": 91,
+		"name": "יקב ארזה   Arza Winery",
+		"description": "יקב ארזה   Arza Winery",
+		"position": [31.78908, 35.33186],
+		"openingHours": "10:00 - 18:00",
+		"city": "מישור אדומים",
+		"website": "--"
+},
+{
+		"id": 92,
+		"name": "יקב צובה    Tzuba Winery",
+		"description": "יקב צובה    Tzuba Winery",
+		"position": [31.7859223, 35.1179373],
+		"openingHours": "09:00 - 16:00",
+		"city": "צובה",
+		"website": "https://www.tzubawinery.co.il/"
+},
+{
+		"id": 93,
+		"name": "יקב מצודה   Metzuda Winery",
+		"description": "יקב מצודה   Metzuda Winery",
+		"position": [31.78558, 35.08847],
+		"openingHours": "08:30 - 16:00",
+		"city": "גבעת יערים",
+		"website": "http://www.metzuda.com/"
+},
+{
+		"id": 94,
+		"name": "יקב רזיאל",
+		"description": "יקב רזיאל",
+		"position": [31.77518, 35.0687],
+		"openingHours": "07:00 - 15:30",
+		"city": "מושב רמת רזיאל",
+		"website": "raziel-winery.co.il"
+},
+{
+		"id": 95,
+		"name": "יקב קסטל   Castel Winery",
+		"description": "יקב קסטל   Castel Winery",
+		"position": [31.807808, 35.091354],
+		"openingHours": "09:00 - 16:00",
+		"city": "נווה אילן",
+		"website": "http://www.castel.co.il/"
+},
+{
+		"id": 96,
+		"name": "יקב פלם   Flam Winery",
+		"description": "יקב פלם   Flam Winery",
+		"position": [31.777303, 35.015273],
+		"openingHours": "10:00 - 18:00",
+		"city": "אשתאול",
+		"website": "http://www.flamwinery.com/"
+},
+{
+		"id": 97,
+		"name": "יקב קטלב   Katlav Winery",
+		"description": "יקב קטלב   Katlav Winery",
+		"position": [31.74655, 35.060184],
+		"openingHours": "09:00 - 16:00",
+		"city": "נס הרים",
+		"website": "http://www.katlav.co.il/"
+},
+{
+		"id": 98,
+		"name": "יקב סוסון ים   SeaHorse Winery",
+		"description": "יקב סוסון ים   SeaHorse Winery",
+		"position": [31.732789, 35.074048],
+		"openingHours": "08:30 - 16:00",
+		"city": "בר גיורא",
+		"website": "http://www.seahorsewines.com/"
+},
+{
+		"id": 99,
+		"name": "Nevo Winery   יקב נבו",
+		"description": "Nevo Winery   יקב נבו",
+		"position": [31.714497, 35.063412],
+		"openingHours": "09:00 - 16:00",
+		"city": "מטע",
+		"website": "http://www.nevowinery.co.il/"
+},
+{
+		"id": 100,
+		"name": "יקב יפו   Yaffo Winery",
+		"description": "יקב יפו   Yaffo Winery",
+		"position": [31.675755, 35.001553],
+		"openingHours": "09:00 - 19:00",
+		"city": "נווה מיכאל",
+		"website": "http://www.yaffowinery.co.il/"
+},
+{
+		"id": 101,
+		"name": "יקב ברקאי   Barkai Winery",
+		"description": "יקב ברקאי   Barkai Winery",
+		"position": [31.672905, 35.003738],
+		"openingHours": "09:00 - 16:00",
+		"city": "נווה מיכאל",
+		"website": "http://www.recanati-winery.com/"
+},
+{
+		"id": 102,
+		"name": "יקב רוגלית Rogalit Winery",
+		"description": "יקב רוגלית Rogalit Winery",
+		"position": [31.672127, 35.002645],
+		"openingHours": "07:00 - 15:30",
+		"city": "נווה מיכאל",
+		"website": "https://roglit-winery.co.il/"
+},
+{
+		"id": 103,
+		"name": "יקב עמק האלה   Ella Valley Winery",
+		"description": "יקב עמק האלה   Ella Valley Winery",
+		"position": [31.687435, 34.979095],
+		"openingHours": "09:00 - 16:00",
+		"city": "נתיב הלה",
+		"website": "http://www.ellavalley.com/"
+},
+{
+		"id": 104,
+		"name": "יקב צפרירים   Zafririm Winery",
+		"description": "יקב צפרירים   Zafririm Winery",
+		"position": [31.660865, 34.944165],
+		"openingHours": "09:00 - 19:00",
+		"city": "צפרירים",
+		"website": "http://www.zafririmwinery.com/"
+},
+{
+		"id": 105,
+		"name": "משק יין הנס שטרנבך   Hans Sternbach Winery",
+		"description": "משק יין הנס שטרנבך   Hans Sternbach Winery",
+		"position": [31.669949, 34.95118],
+		"openingHours": "08:30 - 16:00",
+		"city": "גבעת ישעיהו",
+		"website": "hsw.co.il"
+},
+{
+		"id": 106,
+		"name": "Sphera Winery  יקב ספרה",
+		"description": "Sphera Winery  יקב ספרה",
+		"position": [31.6734, 34.94129],
+		"openingHours": "09:00 - 16:00",
+		"city": "גבעת ישעיהו",
+		"website": "http://www.spherawinery.com/"
+},
+{
+		"id": 107,
+		"name": "יקב עדולם   Adulam Winery",
+		"description": "יקב עדולם   Adulam Winery",
+		"position": [31.671347, 34.9494822],
+		"openingHours": "10:00 - 18:00",
+		"city": "גבעת ישעיהו",
+		"website": "--"
+},
+{
+		"id": 108,
+		"name": "יקב שריגים   Srigim Winery",
+		"description": "יקב שריגים   Srigim Winery",
+		"position": [31.678566, 34.935089],
+		"openingHours": "09:00 - 19:00",
+		"city": "לי-און שריגים",
+		"website": "http://www.srigimwinery.co.il/"
+},
+{
+		"id": 109,
+		"name": "יקב עגור   Agur Winery",
+		"description": "יקב עגור   Agur Winery",
+		"position": [31.694689, 34.912651],
+		"openingHours": "08:30 - 16:00",
+		"city": "מושב עגור",
+		"website": "http://www.agurwines.com/"
+},
+{
+		"id": 110,
+		"name": "יקב מטלר   Mettler Winery",
+		"description": "יקב מטלר   Mettler Winery",
+		"position": [31.697484, 34.912024],
+		"openingHours": "09:00 - 16:00",
+		"city": "מושב עגור",
+		"website": "http://www.mettler-winery.com/"
+},
+{
+		"id": 111,
+		"name": "יקב הדר   Hadar Winery",
+		"description": "יקב הדר   Hadar Winery",
+		"position": [31.699393, 34.910196],
+		"openingHours": "08:00 - 18:00",
+		"city": "מושב עגור",
+		"website": "--"
+},
+{
+		"id": 112,
+		"name": "יקב מוני   Mony Winery",
+		"description": "יקב מוני   Mony Winery",
+		"position": [31.775105, 34.947521],
+		"openingHours": "08:00 - 16:00",
+		"city": "שדות מיכה",
+		"website": "http://www.mony-vineyard.co.il/"
+},
+{
+		"id": 113,
+		"name": "יקב צרעה   Tzora Winery",
+		"description": "יקב צרעה   Tzora Winery",
+		"position": [31.761963, 34.969849],
+		"openingHours": "09:00 - 19:00",
+		"city": "צרעה",
+		"website": "tzoravineyards.com"
+},
+{
+		"id": 114,
+		"name": "יקב טפרברג 1870   Teperberg 1870 Winery",
+		"description": "יקב טפרברג 1870   Teperberg 1870 Winery",
+		"position": [31.760176, 34.966381],
+		"openingHours": "09:00 - 16:00",
+		"city": "צרעה",
+		"website": "http://www.teperbergwinery.co.il/"
+},
+{
+		"id": 115,
+		"name": "יקב קדמא   Kadma Winery",
+		"description": "יקב קדמא   Kadma Winery",
+		"position": [31.79476, 34.94603],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר אוריה",
+		"website": "kadma-wine.co.il"
+},
+{
+		"id": 116,
+		"name": "יקב גיזו   Gizo Vineyard",
+		"description": "יקב גיזו   Gizo Vineyard",
+		"position": [31.805775, 34.939785],
+		"openingHours": "09:00 - 16:00",
+		"city": "צלפון",
+		"website": "--"
+},
+{
+		"id": 117,
+		"name": "יקב קלו דה גת   Clos de Gat Winery",
+		"description": "יקב קלו דה גת   Clos de Gat Winery",
+		"position": [31.809627, 34.958508],
+		"openingHours": "09:00 - 22:00",
+		"city": "הראל",
+		"website": "http://www.closdegat.com/"
+},
+{
+		"id": 118,
+		"name": "יקב שורק   Soreq Winery",
+		"description": "יקב שורק   Soreq Winery",
+		"position": [31.832836, 34.954308],
+		"openingHours": "09:00 - 19:00",
+		"city": "נחשון",
+		"website": "http://www.soreq.co.il/"
+},
+{
+		"id": 119,
+		"name": "יקב כרם ברק   Kerem Barak Winery",
+		"description": "יקב כרם ברק   Kerem Barak Winery",
+		"position": [31.82576, 34.92116],
+		"openingHours": "10:00 - 18:00",
+		"city": "בקוע",
+		"website": "http://www.kerembarak.com/"
+},
+{
+		"id": 120,
+		"name": "יקב סגל   Segal Winery",
+		"description": "יקב סגל   Segal Winery",
+		"position": [31.828928, 34.883942],
+		"openingHours": "09:00 - 16:00",
+		"city": "חולדה",
+		"website": "https://www.barkan-winery.co.il/visitor-center"
+},
+{
+		"id": 121,
+		"name": "יקב ברבדו",
+		"description": "יקב ברבדו",
+		"position": [31.85066, 34.89025],
+		"openingHours": "07:00 - 15:30",
+		"city": "פדיה",
+		"website": "http://www.bravdo.co.il/"
+},
+{
+		"id": 122,
+		"name": "יקב בזק   Bazak Winery",
+		"description": "יקב בזק   Bazak Winery",
+		"position": [31.84578, 34.91383],
+		"openingHours": "09:00 - 19:00",
+		"city": "כרמי יוסף",
+		"website": "https://www.bazakwinery.com/"
+},
+{
+		"id": 123,
+		"name": "יקב בן נון   Bin-Nun Winery",
+		"description": "יקב בן נון   Bin-Nun Winery",
+		"position": [31.861024, 34.944054],
+		"openingHours": "10:00 - 18:00",
+		"city": "כפר בן-נון",
+		"website": "http://www.binnunwinery.com/"
+},
+{
+		"id": 124,
+		"name": "יקב בראון",
+		"description": "יקב בראון",
+		"position": [31.89224, 34.92718],
+		"openingHours": "09:00 - 16:00",
+		"city": "כפר שמואל",
+		"website": "https://www.brownwinery.com/"
+},
+{
+		"id": 125,
+		"name": "יקב הרצברג   Herzberg Winery",
+		"description": "יקב הרצברג   Herzberg Winery",
+		"position": [31.895094, 34.84449],
+		"openingHours": "09:00 - 16:00",
+		"city": "רחובות",
+		"website": "http://www.herzbergwine.com/"
+},
+{
+		"id": 126,
+		"name": "יקב כהנוב   Kahanov Vineyards",
+		"description": "יקב כהנוב   Kahanov Vineyards",
+		"position": [31.825365, 34.770404],
+		"openingHours": "09:00 - 16:00",
+		"city": "גדרה",
+		"website": "kahanov.com"
+},
+{
+		"id": 127,
+		"name": "יקב מישר   Meishar Winery",
+		"description": "יקב מישר   Meishar Winery",
+		"position": [31.815933, 34.75259],
+		"openingHours": "09:00 - 16:00",
+		"city": "מישר",
+		"website": "http://www.meishar.co.il/"
+},
+{
+		"id": 128,
+		"name": "יקב חיטים   Chitim Winery",
+		"description": "יקב חיטים   Chitim Winery",
+		"position": [31.802247, 34.745921],
+		"openingHours": "09:00 - 19:00",
+		"city": "נווה מבטח",
+		"website": "http://www.chitim-winery.co.il/"
+},
+{
+		"id": 129,
+		"name": "יקב מרשה   Maresha Winery",
+		"description": "יקב מרשה   Maresha Winery",
+		"position": [31.682956, 34.745094],
+		"openingHours": "09:00 - 22:00",
+		"city": "מושב זרחיה",
+		"website": "http://www.maresha.co.il/"
+},
+{
+		"id": 130,
+		"name": "יקב גלאי   Galai Winery",
+		"description": "יקב גלאי   Galai Winery",
+		"position": [31.470161, 34.646759],
+		"openingHours": "10:00 - 18:30",
+		"city": "ניר עקיבא",
+		"website": "galai-winery.com"
+},
+{
+		"id": 131,
+		"name": "יקב מדבר   Midbar Winery",
+		"description": "יקב מדבר   Midbar Winery",
+		"position": [31.247897, 35.194582],
+		"openingHours": "10:00 - 18:00",
+		"city": "ערד",
+		"website": "http://www.midbar-winery.co.il/"
+},
+{
+		"id": 132,
+		"name": "יקב יתיר   Yatir Winery",
+		"description": "יקב יתיר   Yatir Winery",
+		"position": [31.261586661018065, 35.13434107051345],
+		"openingHours": "07:00 - 15:30",
+		"city": "ערד",
+		"website": "yatirwinery.com"
+},
+{
+		"id": 133,
+		"name": "יקב לה פורה בלאנש",
+		"description": "יקב לה פורה בלאנש",
+		"position": [31.36128, 35.1112],
+		"openingHours": "10:00 - 18:00",
+		"city": "מצדות יהודה",
+		"website": "fbwinery.com"
+},
+{
+		"id": 134,
+		"name": "יקב דרימיה   Drimia Winery",
+		"description": "יקב דרימיה   Drimia Winery",
+		"position": [31.392979,35.117628],
+		"openingHours": "09:00 - 16:00",
+		"city": "סוסיתא",
+		"website": "http://www.drimia-winery.com/"
+},
+{
+		"id": 135,
+		"name": "יקב חברון   Hebron Winery",
+		"description": "יקב חברון   Hebron Winery",
+		"position": [31.522837, 35.126122],
+		"openingHours": "09:00 - 19:00",
+		"city": "קרית ארבע",
+		"website": "--"
+},
+{
+		"id": 136,
+		"name": "יקב ליבני   Livni Winery",
+		"description": "יקב ליבני   Livni Winery",
+		"position": [31.525764, 35.114407],
+		"openingHours": "09:00 - 16:00",
+		"city": "קרית ארבע",
+		"website": "http://www.livni-wine.com/"
+},
+{
+		"id": 137,
+		"name": "יקב גוש עציון   Gush Etzion Winery",
+		"description": "יקב גוש עציון   Gush Etzion Winery",
+		"position": [31.648367, 35.129932],
+		"openingHours": "10:00 - 18:30",
+		"city": "גוש עציון",
+		"website": "http://www.gushetzion-winery.co.il/"
+},
+{
+		"id": 138,
+		"name": "יקב שירן   Shiran Winery",
+		"description": "יקב שירן   Shiran Winery",
+		"position": [31.65328,35.15293],
+		"openingHours": "09:00 - 16:00",
+		"city": "קרית ארבע",
+		"website": "https://shiranwinery.com/"
+},
+{
+		"id": 139,
+		"name": "יקב בקוש   Backoushe Winery",
+		"description": "יקב בקוש   Backoushe Winery",
+		"position": [31.69284, 35.14762],
+		"openingHours": "08:00 - 18:00",
+		"city": "גוש עציון",
+		"website": "--"
+},
+{
+		"id": 140,
+		"name": "יקב רוטה   Rota Winery",
+		"description": "יקב רוטה   Rota Winery",
+		"position": [31.0585503, 34.7006467],
+		"openingHours": "09:00 - 22:00",
+		"city": "קיבוץ רביבים",
+		"website": "rotawinery@walla.com"
+},
+{
+		"id": 141,
+		"name": "יקב רמת נגב   Ramat Negev Winery",
+		"description": "יקב רמת נגב   Ramat Negev Winery",
+		"position": [30.901380, 34.392353],
+		"openingHours": "09:00 - 16:00",
+		"city": "קדש ברנע",
+		"website": "http://www.kbw.co.il/"
+},
+{
+		"id": 142,
+		"name": "יקב שדה בוקר   Sde Boker Winery",
+		"description": "יקב שדה בוקר   Sde Boker Winery",
+		"position": [30.874346, 34.789089],
+		"openingHours": "10:00 - 18:30",
+		"city": "קיבוץ שדה בוקר",
+		"website": "--"
+},
+{
+		"id": 143,
+		"name": "חוות ננה   Nana Wine",
+		"description": "חוות ננה   Nana Wine",
+		"position": [30.6171, 34.75255],
+		"openingHours": "09:00 - 19:00",
+		"city": "מצפה רמון",
+		"website": ""
+},
+{
+		"id": 144,
+		"name": "יקב מואה",
+		"description": "יקב מואה",
+		"position": [30.56059, 35.17902],
+		"openingHours": "10:00 - 18:30",
+		"city": "מושב צופר",
+		"website": "moawine.co.il"
+},
+{
+		"id": 145,
+		"name": "יקב נאות סמדר   Neot Smadar Winery",
+		"description": "יקב נאות סמדר   Neot Smadar Winery",
+		"position": [30.04853, 35.03065],
+		"openingHours": "09:00 - 16:00",
+		"city": "נאות סמדר",
+		"website": "--"
+},
+{
+		"id": 146,
+		"name": "יקב הים האדום   Red Sea Winery",
+		"description": "יקב הים האדום   Red Sea Winery",
+		"position": [29.57507, 34.96464],
+		"openingHours": "10:00 - 18:00",
+		"city": "אילת",
+		"website": "--"
+}
+]
